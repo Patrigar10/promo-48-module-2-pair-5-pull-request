@@ -1,8 +1,12 @@
 .head {
     background: #fc0;
+    border-radius: 50px;
+    background: rgba(255, 204, 0, 0.466);
     height: 100px;
     position: relative;
     width: 100px;
+    left: 127px;
+    top: 250px;
   }
   .face {
     font-family: 'courier new', serif;
@@ -12,4 +16,5 @@
     position: absolute;
     top: 50%;
     transform: translate(-50%, -60%) rotate(90deg);
+    
   }
